@@ -1,0 +1,27 @@
+Device Changelog for May update
+1. Device Trees undergone drastic change
+2. Fully rebased Device trees to newer one
+3. Enforcing Build
+4. CTS pass without root
+5. Play Store Certified
+6. BT media & calls working
+7. VoLTE working
+8. SIM 2 VoLTE working
+9. Added Advanced Controls
+10. Introduced Moto Dolby
+11. Added Google Camera Go as default
+12. Added Dirac Audio
+13. Address SEPolicy Denials
+14. Imported thermal blobs for 4.9 (thanks to @jennifer1436)
+15. Improved Signal Strength
+16. Fixed SIM reset after reboot
+17. Updated FP to Redfin May
+18. Fixed Smart Charging
+19. Fixed FPS Info
+20. Fixed System Info
+21. Build is signed so apps won't cry for root without magisk.
+22. Build shipped with Fox Kernel.
+23. Kernel upstreamed to 4.9.269.
+24. Clean flash mandatory now
+25. Dont report bugs without proper log especially after changing kernel
+26. Before reporting bugs make it clear its ROM issue or something else
