@@ -1,0 +1,22 @@
+June Changelog 30-June-2021
+Merged Latest Changes from @AdarshGrewal
+Fixed chipmunk sound (thanks to @AdarshGrewal)
+Added Refresh Rate Controls
+Added toggle to unlock with fp after tap
+Updated Fingerprint to Redfin June
+Cleanup some stuff
+Added support for flashlight on long press power button
+Added Turbo Charging instead of Charging Rapidly (thanks to @mahajant99)
+Addressed some SEPolicy denials
+Fixed Battery Health Status
+Added Call Recording support on AOSP Dialer (Google Dialer might work)
+Added Adaptive Brightness support
+Fixed Colours (available under Display Settings)
+Added DC Dimming support
+Fixed Device name for Hotspot/Bluetooth (Actual Device Name)
+
+Bugs :
+WFD (Untested)
+DT2W
+Double Tap power for torch
+Rest tell me with proper logcat
