@@ -1,0 +1,12 @@
+Device Changelog for June :
+Merged Latest changes from Zeelog
+Updated Vendor Blobs from Zeelog
+Addressed some denials
+Improved thermals (thanks to @shashank1436)
+Fixed detecting root in some Apps (SBI Card Works now)
+Fixed Dirac Sound/Mi Sound Enhancer
+Added back missing device specific overlays
+Added overlay for QCom MPCTL service to start on boot
+Minor Bug Fixes and Optimisation
+Switched to Sleepy Kernel
+Upstreamed kernel to 4.9.274
