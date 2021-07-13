@@ -10,3 +10,21 @@ Added overlay for QCom MPCTL service to start on boot
 Minor Bug Fixes and Optimisation
 Switched to Sleepy Kernel
 Upstreamed kernel to 4.9.274
+
+Device Changelog for July :
+1. Improved thermals thanks to (@shashank1436)
+2. Improved thermal temperature
+3. Speed up System UI
+4. Fixed NavBar (no reboot required)
+5. Fixed Battery Health values
+6. Added Smart Charging support
+7. Fixed Smart Charging
+8. Improved Signal Strength
+9. Fixed FPS Tile
+10. Addressed SEPolicy denials
+11. Fixed Dialer Crash
+12. Fixed Sound app crash
+13. Default Kernel is Sleepy
+14. Upstreamed kernel to 4.9.275
+15. Fixed Maintainer string
+16. Cleanup useless stuff
