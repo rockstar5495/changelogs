@@ -23,3 +23,12 @@ Bugs :
 2. FPS Info Tile 
 3. Smart Charging
 4. Rest if found any report with proper logcat
+
+# Credits
+1. @redcliff-op for helping in 90Hz
+2. @lostark13 for Clear Speaker
+3. @AdarshGrewal for Kernel and everything
+
+# Flashing
+Follow steps given here https://telegra.ph/Flashing-on-the-Redmi-Note-10-ProMax-06-21
+
