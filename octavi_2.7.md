@@ -1,5 +1,5 @@
 # Post Image
-![Octavi 2.7](https://github.com/rockstar5495/changelogs/images/octavi/2.7.jpg "Octavi 2.7")
+![Alt text](images/octavi/2.7.jpg)
 
 # Changelog
 July 17/07/2021 
