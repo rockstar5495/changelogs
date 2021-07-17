@@ -1,5 +1,5 @@
 # Post Image
-![Alt text](images/xtended/210.jpg)
+![Alt text](images/xtended/8.0.jpg)
 
 # Changelog for sweet/sweetin
 July 17/07/2021 
@@ -9,12 +9,13 @@ July 17/07/2021
 4. Added support for 90Hz Refresh Rate 
 5. Added Clear Speaker (Settings -> Sounds)  
 6. Fixed Dialel not showing notification in some cases 
-7. Address Denials 
+7. Address SEPolicy Denials 
 8. Cleanup stuff 
 9. Speedup System UI 
 10. Updated GCam Go 
 11. Added support for ANX Camera 
 12. Minor Bug Fixes 
+13  Based on MIUI Vendor
 
 # Bugs : 
 1. FPS Info Tile 
