@@ -24,18 +24,16 @@
 20.Added missing PowerOffAlarm blobs
 21.Added support for stereo speaker in Audio HAL
 22.Enabled Full Screen Aspect Ratio
-23.Display Live Display Display Mode
+23.Disabled Live Display Display Mode
 24.Dropped prebuilt Power-Off charging
-25.Added support for HBM (High Brightness Mode)
-26.Added CABC functionality (Content Adaptive Brightness Control)
  
 
 # Bugs
 1. ViLTE (Operator Video Calling)
 
 # Credits
-1. @vikky_plzz for testing my build
-2. @lostark13 for FM Radio, HBC & CABC
+1. @vikky_plzz & @clasSiCK85 for testing my build
+2. @lostark13 for FM Radio
 3. @redcliff-op for helping in kernel
 4. @AdarshGrewal for OK Google
 
